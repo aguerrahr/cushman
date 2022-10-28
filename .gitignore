@@ -1,0 +1,14 @@
+anit_cushman_one\.vs
+anit_cushman_one\Helper\bin
+anit_cushman_one\Helper\obj
+anit_cushman_one\Model\bin
+anit_cushman_one\Model\obj
+anit_cushman_one\Model\App.config
+anit_cushman_one\PPTReport\bin
+anit_cushman_one\PPTReport\obj
+anit_cushman_one\PPTReport\App.config
+anit_cushman_one\wr_anit_cushman_one\bin
+anit_cushman_one\wr_anit_cushman_one\obj
+anit_cushman_one\wr_anit_cushman_one\Web.config
+anit_cushman_one\wr_anit_cushman_one.Tests\bin
+anit_cushman_one\wr_anit_cushman_one.Tests\obj

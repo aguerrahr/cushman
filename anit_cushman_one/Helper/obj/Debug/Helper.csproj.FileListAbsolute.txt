@@ -30,3 +30,9 @@ E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Helper\obj\Debug\Helper.csproj.A
 E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
 E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Helper\obj\Debug\Helper.dll
 E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Helper\obj\Debug\Helper.pdb
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Helper\bin\Debug\Helper.dll
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Helper\bin\Debug\Helper.pdb
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Helper\obj\Debug\Helper.dll
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Helper\obj\Debug\Helper.pdb

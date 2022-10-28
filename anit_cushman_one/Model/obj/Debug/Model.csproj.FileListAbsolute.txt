@@ -152,3 +152,17 @@ E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Model\obj\Debug\Model.csproj.Cor
 E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Model\obj\Debug\Model.csproj.CopyComplete
 E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Model\obj\Debug\Model.dll
 E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Model\obj\Debug\Model.pdb
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\bin\Debug\Model.dll.config
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\bin\Debug\Model.dll
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\bin\Debug\Model.pdb
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\bin\Debug\EntityFramework.dll
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\bin\Debug\Helper.dll
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\bin\Debug\Helper.pdb
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\bin\Debug\EntityFramework.xml
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\obj\Debug\Model.dll
+D:\Proyectos\cushman\repositorioPublicado\cushman\anit_cushman_one\Model\obj\Debug\Model.pdb
