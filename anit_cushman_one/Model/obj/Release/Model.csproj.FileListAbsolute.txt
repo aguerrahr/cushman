@@ -38,3 +38,17 @@ E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Model\obj\Release\Model.csproj.C
 E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Model\obj\Release\Model.csproj.CopyComplete
 E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Model\obj\Release\Model.dll
 E:\SICREX\DYMS\Cushman\cushman\anit_cushman_one\Model\obj\Release\Model.pdb
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\bin\Release\Model.dll.config
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\bin\Release\Model.dll
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\bin\Release\Model.pdb
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\bin\Release\EntityFramework.dll
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\bin\Release\EntityFramework.SqlServer.dll
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\bin\Release\Helper.dll
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\bin\Release\Helper.pdb
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\bin\Release\EntityFramework.xml
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\bin\Release\EntityFramework.SqlServer.xml
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\obj\Release\Model.csproj.AssemblyReference.cache
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\obj\Release\Model.csproj.CopyComplete
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\obj\Release\Model.dll
+D:\Proyectos\cushman\repositorioUltimo\cushman\anit_cushman_one\Model\obj\Release\Model.pdb
