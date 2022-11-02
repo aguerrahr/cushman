@@ -490,6 +490,7 @@
     <None Include="Properties\PublishProfiles\cushmanone - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\cushmanonedevs - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\cushmanoneqa - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\cushmanoneqa - Web Deploy1.pubxml" />
     <None Include="Properties\PublishProfiles\cushmanone_produccion.pubxml" />
     <None Include="Properties\PublishProfiles\DYMS.pubxml" />
     <None Include="Properties\PublishProfiles\iis_cushman.pubxml" />
